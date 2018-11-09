@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ruby-lastpass (0.1.0)
+    ruby-lastpass (0.1.1)
       clipboard (~> 1.1)
       ffi
 
