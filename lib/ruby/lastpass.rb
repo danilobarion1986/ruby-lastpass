@@ -8,7 +8,7 @@ module Ruby
     class Error < StandardError; end
 
     def self.login(username)
-      Login.new(username)
+      Login.new("User: #{username}")
     end
   end
 end
